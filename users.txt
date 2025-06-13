@@ -3,3 +3,4 @@ UserId    Username            Password                                Email
 2         Kamvelihle          cthgfELC                                                        Kamvelihle@gmail.com          
 3         Kungawo01           76hVSDXz                                                        Kungawo@gmail.com             
 4         MonPen123           LyDHczmv                                                        MonPen@gmail.com              
+5          Lutho123       ehofwopouf                                                         lutho@example.com
